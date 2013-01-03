@@ -1,0 +1,2 @@
+cmd_scripts/kallsyms := gcc -Wp,-MD,scripts/.kallsyms.d -Wall -Wmissing-prototypes -Wstrict-prototypes -O2 -fomit-frame-pointer     -o scripts/kallsyms scripts/kallsyms.c  
+

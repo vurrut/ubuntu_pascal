@@ -1,0 +1,2 @@
+cmd_scripts/pnmtologo := gcc -Wp,-MD,scripts/.pnmtologo.d -Wall -Wmissing-prototypes -Wstrict-prototypes -O2 -fomit-frame-pointer     -o scripts/pnmtologo scripts/pnmtologo.c  
+
