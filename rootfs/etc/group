@@ -19,7 +19,7 @@ cdrom:x:24:
 floppy:x:25:
 tape:x:26:
 sudo:x:27:
-audio:x:29:
+audio:x:29:vurrutos
 dip:x:30:
 www-data:x:33:
 backup:x:34:
@@ -38,3 +38,10 @@ games:x:60:
 users:x:100:
 nogroup:x:65534:
 libuuid:x:101:
+fuse:x:102:
+messagebus:x:103:
+scanner:x:104:
+colord:x:105:
+ssh:x:106:
+utempter:x:107:
+vurrutos:x:1000:

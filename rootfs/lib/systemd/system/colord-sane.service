@@ -1,0 +1,10 @@
+[Unit]
+Description=Daemon for monitoring attached scanners and registering them with colord
+
+[Service]
+Type=dbus
+BusName=org.freedesktop.colord-sane
+ExecStart=/usr/lib/arm-linux-gnueabihf/colord/colord-sane
+User=colord
+PrivateNetwork=yes
+PrivateTmp=yes

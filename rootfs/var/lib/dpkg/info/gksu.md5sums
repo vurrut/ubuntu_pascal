@@ -1,0 +1,13 @@
+5631a77bd25a834b5d3375dc3687b81d  usr/bin/gksu
+e91cabeab6353f887916372e7e5c0330  usr/share/applications/gksu.desktop
+ccb3208ef57aba567379c5ef454c7d57  usr/share/doc/gksu/AUTHORS
+c4ca248bea3a8d7178d0896248195b40  usr/share/doc/gksu/README
+769957975a1d8488bc495fae008cf0b7  usr/share/doc/gksu/changelog.Debian.gz
+d398ffe994765d1363279f6cf2aae0a2  usr/share/doc/gksu/copyright
+0a2cb61fe8cdf1545a253657edc4ce71  usr/share/gksu/gksu-migrate-conf.sh
+dadf1ad968788f85ecbff89cb5d13b0a  usr/share/man/man1/gksu.1.gz
+bfc481bd13cc04b088e934fa7bac2867  usr/share/menu/gksu
+08c1008fc922b8bf7052f4d9e36ca36d  usr/share/pixmaps/gksu-debian.xpm
+69cd8123bb4e08a8410d1f0cd3ba059c  usr/share/pixmaps/gksu-icon.png
+9641067afdc5884497c1b80a8c762901  usr/share/pixmaps/gksu-root-terminal.png
+bada58660ffe8c13c538ef6dbbcc1341  usr/share/pixmaps/gksuexec-debian.xpm

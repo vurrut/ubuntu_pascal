@@ -1,0 +1,115 @@
+[Session]
+# Default program launched at startup
+# Windows manager : Simple way to launch window manager (backward compatible). Let it empty if you want to use the advanced mode
+window_manager=openbox-lxde
+
+# Window manager : Advanced mode to launch the window manager (with session, usefull for launching openbox with specific arguments (like configuration file) and extras commands)
+window_manager/program=
+window_manager/session=
+window_manager/extras=
+
+# Panel and its session (if necessary)
+panel/program=lxpanel
+panel/session=LXDE
+
+# Screensaver
+screensaver/program=xscreensaver
+
+# Power management
+power-manager/program=
+
+# File manager (session if necessary, extras commands if necessary)
+file-manager/program=pcmanfm
+file-manager/session=LXDE
+file-manager/extras=
+
+# Polkit agent (use lxpolkit to use build-in support if enable at build time)
+polkit=lxpolkit
+
+# Network GUI manager (auto to try to guess the best choice)
+network_gui=
+
+# Audio preferences (dbus-send --session --print-reply --dest="org.lxde.SessionManager" /org/lxde/SessionManager org.lxde.SessionManager.AudioManagerLaunch)
+audio_manager=
+
+# Logout dialog (dbus-send --session --print-reply --dest="org.lxde.SessionManager" /org/lxde/SessionManager org.lxde.SessionManager.QuitManagerLaunch)
+quit_manager=
+
+# Workspace manager (dbus-send --session --print-reply --dest="org.lxde.SessionManager" /org/lxde/SessionManager org.lxde.SessionManager.WorkspaceManagerLaunch)
+workspace_manager=
+
+# Launcher to launch applications (dbus-send --session --print-reply --dest="org.lxde.SessionManager" /org/lxde/SessionManager org.lxde.SessionManager.LauncherManagerLaunch)
+launcher_manager=
+
+# Terminal by default (dbus-send --session --print-reply --dest="org.lxde.SessionManager" /org/lxde/SessionManager org.lxde.SessionManager.TerminalManagerLaunch)
+terminal_manager=
+
+# Clipboard support (use lxclipboard to use build-in support if enable at build time)
+clipboard=lxclipboard
+
+# Disable autostart of applications in system and home autostart directory
+disable_autostart=true
+
+[State]
+# unknown if untested, yes if on laptop, no if not
+laptop_mode=unknown
+
+[Dbus]
+# Default Dbus interfaces, should be always true
+lxde=true
+# Implement gnome-session Dbus API
+gnome=false
+
+[Keymap]
+# Read configuration from : user (this file) or system
+mode=
+# Keyboard configuration for user mode, all 4 should be present
+model=
+layout=
+variant=
+options=
+
+[XRandr]
+# Mode command only available
+mode=
+# Command to launch for configuring Xrandr ex: xrandr --mode ...
+command=
+
+[Security]
+# Default Keyring program
+keyring=gnome-all
+
+[GTK]
+#iNet/DoubleClickTime=400
+#iNet/DoubleClickDistance
+#iNet/DndDragThreshold
+#iNet/CursorBlink
+#iNet/CursorBlinkTime
+sNet/ThemeName=Clearlooks
+sNet/IconThemeName=nuoveXT2
+sGtk/FontName=Sans 10
+#iGtk/IconSizes
+#sGtk/KeyThemeName
+iGtk/ToolbarStyle=3
+#iGtk/ToolbarIconSize
+#iGtk/IMPreeditStyle
+#iGtk/IMStatusStyle
+iGtk/ButtonImages=1
+iGtk/MenuImages=1
+#sGtk/CursorThemeName=
+iGtk/CursorThemeSize=18
+iXft/Antialias=1
+#iXft/Hinting
+#iXft/HintStyle
+#iXft/RGBA
+#iXft/DPI
+#iGtk/TouchscreenMode
+
+[Mouse]
+AccFactor=20
+AccThreshold=10
+LeftHanded=0
+
+[Keyboard]
+Delay=500
+Interval=30

@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libfm-gtk3
+/usr/share/doc/libfm-gtk3/copyright
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/libfm-gtk.so.3.1.0
+/usr/share/doc/libfm-gtk3/changelog.Debian.gz
+/usr/lib/arm-linux-gnueabihf/libfm-gtk.so.3

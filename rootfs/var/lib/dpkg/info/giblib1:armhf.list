@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/libgiblib.so.1.0.6
+/usr/share
+/usr/share/doc
+/usr/share/doc/giblib1
+/usr/share/doc/giblib1/copyright
+/usr/share/doc/giblib1/changelog.Debian.gz
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/giblib1
+/usr/lib/arm-linux-gnueabihf/libgiblib.so.1

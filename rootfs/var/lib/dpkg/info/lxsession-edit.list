@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/share
+/usr/share/applications
+/usr/share/applications/lxsession-edit.desktop
+/usr/share/doc
+/usr/share/doc/lxsession-edit
+/usr/share/doc/lxsession-edit/changelog.Debian.gz
+/usr/share/doc/lxsession-edit/NEWS.Debian.gz
+/usr/share/doc/lxsession-edit/copyright
+/usr/share/lxsession
+/usr/share/lxsession/ui
+/usr/share/lxsession/ui/lxsession-edit.ui
+/usr/bin
+/usr/bin/lxsession-edit

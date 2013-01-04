@@ -1,0 +1,9 @@
+auto
+/etc/ld.so.conf.d/arm-linux-gnueabihf_GL.conf
+arm-linux-gnueabihf_xorg_extra_modules
+/usr/lib/arm-linux-gnueabihf/xorg/extra-modules
+
+/usr/lib/arm-linux-gnueabihf/mesa/ld.so.conf
+500
+/usr/lib/arm-linux-gnueabihf/xorg/x11-extra-modules
+

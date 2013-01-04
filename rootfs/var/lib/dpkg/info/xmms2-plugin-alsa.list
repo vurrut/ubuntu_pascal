@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/lib
+/usr/lib/xmms2
+/usr/lib/xmms2/libxmms_alsa.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/xmms2-plugin-alsa
+/usr/share/doc/xmms2-plugin-alsa/copyright
+/usr/share/doc/xmms2-plugin-alsa/NEWS.Debian.gz
+/usr/share/doc/xmms2-plugin-alsa/changelog.Debian.gz

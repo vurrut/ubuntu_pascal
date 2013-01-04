@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/bin
+/usr/bin/rpm2cpio
+/usr/share
+/usr/share/doc
+/usr/share/doc/rpm2cpio
+/usr/share/doc/rpm2cpio/copyright
+/usr/share/man
+/usr/share/man/man8
+/usr/share/man/man8/rpm2cpio.8.gz
+/usr/share/doc/rpm2cpio/changelog.Debian.gz

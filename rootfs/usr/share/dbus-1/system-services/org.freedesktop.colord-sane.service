@@ -1,0 +1,5 @@
+[D-BUS Service]
+Name=org.freedesktop.colord-sane
+Exec=/usr/lib/arm-linux-gnueabihf/colord/colord-sane
+User=colord
+SystemdService=colord-sane.service

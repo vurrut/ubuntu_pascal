@@ -1,0 +1,422 @@
+This work was packaged for Debian by:
+    Chris Hildebrandt <slam@sidux.com> on Sat, 16 Jan 2010 14:10:00 +0100
+
+It was downloaded from:
+    https://lxde.svn.sourceforge.net/svnroot/lxde/trunk/lxdm/
+
+Upstream Authors:
+    dgod <dgod.osa@gmail.com>
+    Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+
+Files:
+    src/greeter-gdk.c
+    src/lang.c
+    src/lang.h
+    src/lxdm.c
+    src/lxdm.h
+    src/ui.c
+    data/Xsession
+    data/lxdm
+    data/lxdm.conf
+    data/lxdm.glade
+
+
+    Copyright © 2009 dgod <dgod.osa@gmail.com>
+
+License:
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, write to the Free Software
+    Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+    MA 02110-1301, USA.
+
+File:
+    po/cs.po
+
+Copyright © 2009 Michal Várady <miko.vaji@gmail.com>
+
+File:
+    po/de.po
+
+Copyright © 2009 Mark Trompell <mark@foresightlinux.org>
+Copyright © 2009 Christoph Wickert <cwickert@fedoraproject.org>
+
+File:
+    po/it.po
+
+Copyright © 2009 Christoph Wickert <cwickert@fedoraproject.org>
+
+File:
+    po/ja.po
+
+Copyright © 2009 Hironao Komatsu <hironao@users.sourceforge.net>
+
+File:
+    po/nl.po
+
+Copyright © 2009 Vincent Van Houtte <vvh@synergylaw.be>
+
+File:
+    po/pl.po
+
+Copyright © 2009 Grzegorz Gibas <amigib@gmail.com>
+
+File:
+    po/pt.po
+
+Copyright © 2009 Sérgio Marques <smarquespt@gmail.com>
+
+File:
+    po/ru.po
+
+Copyright © 2009 HsH <hsh@runtu.org>
+
+File:
+    po/sv.po
+
+Copyright © 2009 Martin Bagge <brother@bsnet.se>
+
+File:
+    po/zh_CN.po
+
+Copyright © 2009 dgod <dgod.osa@gmail.com>
+
+File:
+    po/zh_TW.po
+
+Copyright © 2009 dgod <dgod.osa@gmail.com>
+Copyright © 2009 Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+
+All files in po/ are licensed GPLv3
+
+
+On Debian systems, the complete text of the GNU General
+Public License version 3 can be found in `/usr/share/common-licenses/GPL-3'.
+
+Files: 
+    src/greeter.c
+    
+    Copyright © 2009 Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+
+License:
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 2 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, write to the Free Software
+    Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+    MA 02110-1301, USA.
+
+Files in src/gdm were taken from gdm:
+    src/gdm/gdm-languages.c
+    src/gdm/gdm-languages.h
+    
+    Copyright © 2008 Red Hat, Inc
+    Copyright © 2007 William Jon McCann <mccann@jhu.edu>
+
+License:
+   This program is free software; you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation; either version 2 of the License, or
+   (at your option) any later version.
+
+   This package is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+
+   You should have received a copy of the GNU General Public License
+   along with this package; if not, write to the Free Software
+   Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA
+
+
+On Debian systems, the complete text of the GNU General
+Public License version 2 can be found in `/usr/share/common-licenses/GPL-2'.
+
+
+Files in data/theme/Industrial/* are taken from 'industrial' gdm theme.
+
+  Copyright © 2002 Ximian, Inc. Jakub Steiner <jimmac@ximian.com>
+
+License:
+   This program is free software; you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation; either version 2 of the License, or
+   (at your option) any later version.
+
+   This package is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+
+   You should have received a copy of the GNU General Public License
+   along with this package; if not, write to the Free Software
+   Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA
+
+
+On Debian systems, the complete text of the GNU General
+Public License version 2 can be found in `/usr/share/common-licenses/GPL-2'.
+
+
+File:
+    debian/lxdm.1
+
+    Copyright © 2010 Trevor Walkley <bluewater@sidux.com>
+
+License:
+   This program is free software; you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation; either version 2 of the License, or
+   (at your option) any later version.
+
+   This package is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+
+   You should have received a copy of the GNU General Public License
+   along with this package; if not, write to the Free Software
+   Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA
+
+
+On Debian systems, the complete text of the GNU General
+Public License version 2 can be found in `/usr/share/common-licenses/GPL-2'.
+
+File:
+    src/gdm/locarchive.h:
+    
+    Copyright © 2002 Free Software Foundation, Inc.
+
+License:
+   This file is part of the GNU C Library.
+
+   The GNU C Library is free software; you can redistribute it and/or
+   modify it under the terms of the GNU Lesser General Public
+   License as published by the Free Software Foundation; either
+   version 2.1 of the License, or (at your option) any later version.
+
+   The GNU C Library is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+   Lesser General Public License for more details.
+
+   You should have received a copy of the GNU Lesser General Public
+   License along with the GNU C Library; if not, write to the  Free 
+   Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston,                                                               
+   MA 02110-1301, USA
+
+On Debian systems, the complete text of the GNU General
+Public License can be found in `/usr/share/common-licenses/LGPL-2.1'.
+
+File:
+    debian/po/ca.po
+    
+Copyright © Branden Robinson, 2000-2004
+Copyright © Ivan Vilata i Balaguer <net.selidor@ivan>, 2002-2007
+
+File:
+    debian/po/cs.po
+    
+Copyright © Branden Robinson, 2000-2004
+Copyright © Miroslav Kure <kurem@debian.cz>, 2004-2007
+
+File:
+    debian/po/da.po
+    
+Copyright © Branden Robinson, 2000-2004
+Copyright © Dennis Haney, 2002
+Copyright © Morten Brix Pedersen <morten@wtf.dk>, 2003.
+Copyright © Claus Hindsgaul <claus_h@image.dk>, 2004, 2005.
+
+File:
+    debian/po/de.po
+
+Copyright © Branden Robinson, 2000-2004.
+Copyright © Martin Schuster, 2001.
+Copyright © Sebastian Rittau, 2001.
+Copyright © Erich Schubert, 2001.
+Copyright © Knut Suebert, 2001.
+Copyright © Sebastian Feltel, 2001.
+Copyright © Philipp Matthias Hahn, 2001.
+Copyright © Veit Waltemath, 2002.
+Copyright © Andreas Metzler, 2002.
+Copyright © Alwin Meschede <ameschede@gmx.de>, 2004, 2005, 2007.
+
+File:
+    debian/po/el.po
+    
+Copyright © Branden Robinson, 2000-2004
+Copyright © Konstantinos Margaritis <markos@debian.org>, 2004
+
+File:
+    debian/po/es.po
+    
+Copyright © Carlos Valdivia Yagüe, 2001
+Copyright © Javier Fernandez-Sanguino Peña, 2003
+Copyright © David Martínez Moreno <ender@debian.org>, 2001, 2002, 2005
+Copyright © Francisco Javier Cuadrado <fcocuadrado@gmail.com>, 2008
+
+File:
+    debian/po/eu.po
+
+Copyright © Branden Robinson, 2000-2004.
+Copyright © Piarres Beobide <pi@beobide.net>, 2005, 2007.
+
+File:
+    debian/po/fi.po
+
+Copyright © Esko Arajärvi <edu@iki.fi>, 2007
+
+File:
+    debian/po/fr.po
+
+Copyright © Branden Robinson, 2000-2004.
+Copyright © Thomas Morin, 2001.
+Copyright © Patrice Karatchentzeff, 2001.
+Copyright © Jérôme Schell, 2001.
+Copyright © Jean-Christophe Dubacq, 2002.
+Copyright © Christian Perrier <bubulle@debian.org>, 2003, 2004, 2006, 2007.
+
+File:
+    debian/po/gl.po
+
+Copyright © Branden Robinson, 2000-2004
+Copyright © Jacobo Tarrio, 2001, 2006
+
+File:
+    debian/po/it.po
+    
+Copyright © Branden Robinson, 2000-2004
+Copyright © Matteo Dell'Amico, 2002
+Copyright © Emanuele Aina, 2002
+Copyright © Luca Monducci, 2004
+Copyright © Danilo Piazzalunga, 2004-2007
+
+File:
+    debian/po/ja.po
+
+Copyright © Branden Robinson, 2000-2004
+Copyright © ISHIKAWA Mutsumi, 2001
+Copyright © Tomohiro KUBOTA, 2001, 2002
+Copyright © Kenshi Muto, 2001, 2003, 2004
+Copyright © Takeo Nakano, 2001, 2003
+
+File:
+    debian/po/ko.po
+    
+Copyright © Sunjae Park <darehanl@gmail.com>, 2007.
+
+File:
+    debian/po/ml.po
+    
+Copyright © Praveen|പ്രവീണ്‍ A|എ <pravi.a@gmail.com>, 2007.
+
+File:
+    debian/po/nl.po
+    
+Copyright © Branden Robinson, 2000-2004
+Copyright © Wouter Verhelst, 2002
+Copyright © Bart Cornelis, 2003
+
+File:
+    debian/po/pl.po
+
+Copyright © Branden Robinson, 2000-2004
+Copyright © Marcin Owsiany, 2001, 2002
+
+File:
+    debian/po/pt.po
+
+Copyright © Branden Robinson, 2000-2004
+Copyright © Eduardo Silva <jobezone@yahoo.com>, 2005
+Copyright © Miguel Figueiredo <elmig@debianpt.org>, 2007-2008
+
+File:
+    debian/po/pt_BR.po
+    
+Copyright © Branden Robinson, 2000-2004.
+Copyright © Gustavo Noronha Silva, 2001.
+Copyright © Henrique de Moraes Holschuh, 2001.
+Copyright © André Luís Lopes <andrelop@debian.org>, 2001-2005.
+Copyright © Eder L. Marques <frolic@debian-ce.org>, 2007.
+
+File:
+    debian/po/ro.po
+    
+Copyright © Branden Robinson, 2000--2004.
+Copyright © Ruşeţ Zeno <rzeno@cwazy.co.uk>, 2005.
+Copyright © Eddy Petrișor <eddy.petrisor@gmail.com>, 2005-2007.
+
+File:
+    debian/po/ru.po
+
+Copyright © Branden Robinson, 2000-2004
+Copyright © Ilgiz Kalmetev, 2002, 2003
+Copyright © Serge Winitzki, 2003
+Copyright © Yuri Kozlov <kozlov.y@gmail.com>, 2005.
+
+File:
+    debian/po/sk.po
+    
+Copyright © Branden Robinson, 2000-2004
+Copyright © Miroslav Kure <kurem@debian.cz>, 2004
+Copyright © Peter Mann <Peter.Mann@tuke.sk>, 2005
+
+File:
+    debian/po/sv.po
+    
+Copyright © Branden Robinson, 2000-2004
+Copyright © André Dahlqvist, 2001
+Copyright © Peter Toneby, 2002
+Copyright © Mikael Hedin, 2002
+
+File:
+    debian/po/ta.po
+
+Copyright © Dr.T.Vasudevan <agnihot3@gmail.com>, 2007.
+
+File:
+    debian/po/tr.po
+
+Copyright © Branden Robinson, 2000-2004    
+Copyright © Osman Yüksel <yuxel@sonsuzdongu.com>, 2004, 2006.
+Copyright © Recai Oktaş <roktas@debian.org>, 2004.
+
+File:
+    debian/po/vi.po
+    
+Copyright © Branden Robinson, 2000-2004
+Copyright © Clytie Siddall <clytie@riverland.net.au>, 2005-2007.
+
+File:
+    debian/po/zh_CN.po
+    
+Copyright © Branden Robinson, 2000-2004
+Copyright © Carlos Z.F. Liu <carlosliu@users.sourceforge.net>, 2005
+Copyright © Ming Hua <minghua@rice.edu>, 2005,2007
+
+debian/po files are from xdm package.
+
+The Debian packaging is:
+    Copyright © 2010 Chris Hildebrandt <slam@sidux.com>
+    Copyright © 2010 Nikolas Poniros <edhunter@sidux.com>
+
+you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; version 2 of the License.

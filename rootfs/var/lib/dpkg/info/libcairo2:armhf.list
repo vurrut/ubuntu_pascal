@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/libcairo.so.2.11200.2
+/usr/share
+/usr/share/doc
+/usr/share/doc/libcairo2
+/usr/share/doc/libcairo2/changelog.Debian.gz
+/usr/share/doc/libcairo2/copyright
+/usr/share/doc/libcairo2/AUTHORS.gz
+/usr/share/doc/libcairo2/README.gz
+/usr/share/doc/libcairo2/NEWS.gz
+/usr/lib/arm-linux-gnueabihf/libcairo.so.2

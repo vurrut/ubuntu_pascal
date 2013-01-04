@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/share
+/usr/share/man
+/usr/share/man/man4
+/usr/share/man/man4/omap.4.gz
+/usr/share/doc
+/usr/share/doc/xserver-xorg-video-omap
+/usr/share/doc/xserver-xorg-video-omap/copyright
+/usr/share/doc/xserver-xorg-video-omap/changelog.Debian.gz
+/usr/lib
+/usr/lib/xorg
+/usr/lib/xorg/modules
+/usr/lib/xorg/modules/drivers
+/usr/lib/xorg/modules/drivers/omap_drv.so

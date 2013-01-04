@@ -1,0 +1,4 @@
+?package(xarchiver):needs="X11" section="Applications/File Management"\
+  title="Xarchiver" longtitle="GTK+ frontend for most used compression formats"\
+  description="Xarchiver is a Desktop Environment independent GTK+ 2 frontend for manipulating 7z, arj, bzip2, gzip, rar, tar, zip, and RPM files."\
+  command="/usr/bin/xarchiver" icon="/usr/share/pixmaps/xarchiver.xpm"

@@ -1,0 +1,17 @@
+40b5e1b2330f98a9ffe4b8bee0e6ce78  usr/lib/gvfs/gvfs-udisks2-volume-monitor
+4900ed6d1aa1efae140757e5ae3b59b9  usr/lib/gvfs/gvfsd
+8b524f913dabc1290d7584fbed3dea19  usr/lib/gvfs/gvfsd-burn
+363ad281b37a18ad80d7278c26bdc4b8  usr/lib/gvfs/gvfsd-computer
+d3076de22a89e872167451bd5792ae22  usr/lib/gvfs/gvfsd-localtest
+a50744b64e34359600ac79f5c86a4b74  usr/lib/gvfs/gvfsd-metadata
+49531275e25c3f4bb5a3fdd46a4d2735  usr/lib/gvfs/gvfsd-trash
+4bf5b8a17aa02a32a7cdbd28e77d9cea  usr/share/dbus-1/services/gvfs-daemon.service
+01fa255c11ba7f4ed587adf9a5f49854  usr/share/dbus-1/services/gvfs-metadata.service
+d8f4a3acac908dfed0b390ddf5172c9b  usr/share/dbus-1/services/org.gtk.Private.UDisks2VolumeMonitor.service
+334978aba9b1a12476f5620e5826b4ad  usr/share/doc/gvfs-daemons/copyright
+2dbd1d6f92cd52f99d3c328f8682e371  usr/share/gvfs/mounts/burn.mount
+82f8705ae778c671a28346db7f1b1c80  usr/share/gvfs/mounts/computer.mount
+59bd05c42f7851fb15358bb25ed30940  usr/share/gvfs/mounts/localtest.mount
+b0a9c64c0fe792096fab4368c7ef4c6d  usr/share/gvfs/mounts/trash.mount
+704c6550854765f29150e46856325364  usr/share/gvfs/remote-volume-monitors/udisks2.monitor
+e645fd3cfdfd54b9567cfe5d2b4e5bfd  usr/share/lintian/overrides/gvfs-daemons

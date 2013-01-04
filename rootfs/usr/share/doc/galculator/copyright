@@ -1,0 +1,15 @@
+This package was debianized by Sebastien Bacher <seb128@debian.org> on
+Wed, 19 Feb 2003 23:13:19 +0100.
+
+It was downloaded from http://galculator.sourceforge.net/
+
+Upstream Author: Simon Floery <chimaira@users.sf.net>
+
+Copyright:
+
+	Copyright (C) 2002-2009 by Simon Floery <chimaira@users.sf.net>
+
+You are free to redistribute this software under the terms of the GNU
+General Public License.
+On Debian systems, the complete text of the GNU General Public License can
+be found at /usr/share/common-licenses/GPL-2.

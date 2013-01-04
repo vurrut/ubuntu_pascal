@@ -1,0 +1,4 @@
+df9f407cb7c64083b1585144f2a256d2  usr/lib/gvfs/gvfsd-fuse
+355218e0db119e15d271a773ca9033af  usr/share/doc/gvfs-fuse/AUTHORS
+334978aba9b1a12476f5620e5826b4ad  usr/share/doc/gvfs-fuse/copyright
+964b71e8d488f2652a3589174d9a1c83  usr/share/lintian/overrides/gvfs-fuse

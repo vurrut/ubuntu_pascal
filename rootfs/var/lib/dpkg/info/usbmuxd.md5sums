@@ -1,0 +1,9 @@
+a728e936d5ec3b2f55aeab6912abbcd0  lib/udev/rules.d/85-usbmuxd.rules
+784b027e92bdcf2d29dcd8a317de59f5  usr/bin/iproxy
+2abdad9843790e564f0120cba7c1bb5d  usr/sbin/usbmuxd
+4b688837a7f728bf6bc81d742c1a8058  usr/share/doc/usbmuxd/AUTHORS
+79157edbeddcfa82dba6e8ed9be42eb5  usr/share/doc/usbmuxd/README.devel
+420d366a3ed8580d7a1e36dcf0d38cbe  usr/share/doc/usbmuxd/README.gz
+0692612ebd4d4d1e7d9f7fc8b6f09f88  usr/share/doc/usbmuxd/copyright
+30353d63e38dc892df243f8d63a2c4cb  usr/share/man/man1/iproxy.1.gz
+b20e85e4c99e0f0628ed222c62fe7050  usr/share/man/man1/usbmuxd.1.gz

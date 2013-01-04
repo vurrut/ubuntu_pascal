@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/lib
+/usr/lib/gvfs
+/usr/lib/gvfs/gvfsd-fuse
+/usr/share
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/gvfs-fuse
+/usr/share/doc
+/usr/share/doc/gvfs-fuse
+/usr/share/doc/gvfs-fuse/AUTHORS
+/usr/share/doc/gvfs-fuse/copyright
+/usr/share/doc/gvfs-fuse/README
+/usr/share/doc/gvfs-fuse/TODO
+/usr/share/doc/gvfs-fuse/changelog.Debian.gz
+/usr/share/doc/gvfs-fuse/NEWS.gz

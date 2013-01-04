@@ -1,0 +1,6 @@
+?package(galculator): \
+needs="X11" \
+section="Applications/Science/Mathematics" \
+title="galculator" \
+command="/usr/bin/galculator" \
+icon="/usr/share/pixmaps/galculator.xpm"

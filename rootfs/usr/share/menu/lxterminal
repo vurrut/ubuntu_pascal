@@ -1,0 +1,4 @@
+?package(lxterminal):needs="X11" section="Applications/Terminal Emulators"\
+  title="LXTerminal" longtitle="LXDE terminal emulator"\
+  description="LXTerminal is a VTE-based terminal emulator for the Lightweight X11 Desktop Environment (LXDE). It supports multiple tabs and has only minimal dependencies thus being completely desktop-independent. In order to reduce memory usage and increase the performance, all instances of the terminal are sharing a single process."\
+  command="/usr/bin/lxterminal" icon="/usr/share/pixmaps/lxterminal.xpm"

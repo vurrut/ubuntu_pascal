@@ -1,0 +1,26 @@
+Package: flashplugin-nonfree
+Binary: flashplugin-installer, flashplugin-downloader
+Version: 11.2.202.258ubuntu0.12.10.1
+Priority: optional
+Section: multiverse/web
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Bart Martens <bartm@knars.be>
+Build-Depends: debhelper (>= 9)
+Architecture: i386 amd64
+Standards-Version: 3.8.0
+Format: 1.0
+Directory: pool/multiverse/f/flashplugin-nonfree
+Files:
+ 583476abe25a52259d249cf2ac0b7075 1410 flashplugin-nonfree_11.2.202.258ubuntu0.12.10.1.dsc
+ 972848a0abe2d43ca6aaec0fe8d8d334 44907 flashplugin-nonfree_11.2.202.258ubuntu0.12.10.1.tar.gz
+Homepage: http://www.adobe.com/products/flashplayer.html
+Package-List: 
+ flashplugin-downloader deb contrib/web optional
+ flashplugin-installer deb contrib/web optional
+Checksums-Sha1:
+ 90c65cff768e132eca753fea3b4d632b925db1d2 1410 flashplugin-nonfree_11.2.202.258ubuntu0.12.10.1.dsc
+ d6fa34e99d3c1a640691fb73d46cf6ad47f4409a 44907 flashplugin-nonfree_11.2.202.258ubuntu0.12.10.1.tar.gz
+Checksums-Sha256:
+ 1b1536d3b1bead176f0bb17221ff779974b3580ca0b184d2d6467973ad324ab1 1410 flashplugin-nonfree_11.2.202.258ubuntu0.12.10.1.dsc
+ ab087f3fd1b00cd3a6f6c24be5a850857f9f5c2fd939035e8256af060dc63010 44907 flashplugin-nonfree_11.2.202.258ubuntu0.12.10.1.tar.gz
+

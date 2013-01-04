@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/libtxc_dxtn_s2tc.so.0.0.0
+/usr/share
+/usr/share/doc
+/usr/share/doc/libtxc-dxtn-s2tc0
+/usr/share/doc/libtxc-dxtn-s2tc0/copyright
+/usr/share/doc/libtxc-dxtn-s2tc0/README.txt
+/usr/share/doc/libtxc-dxtn-s2tc0/changelog.Debian.gz
+/usr/lib/arm-linux-gnueabihf/libtxc_dxtn_s2tc.so.0

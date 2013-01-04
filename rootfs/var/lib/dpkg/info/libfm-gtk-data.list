@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/share
+/usr/share/libfm
+/usr/share/libfm/ui
+/usr/share/libfm/ui/app-chooser.ui
+/usr/share/libfm/ui/file-prop.ui
+/usr/share/libfm/ui/preferred-apps.ui
+/usr/share/libfm/ui/ask-rename.ui
+/usr/share/libfm/ui/progress.ui
+/usr/share/libfm/ui/exec-file.ui
+/usr/share/doc
+/usr/share/doc/libfm-gtk-data
+/usr/share/doc/libfm-gtk-data/changelog.Debian.gz
+/usr/share/doc/libfm-gtk-data/copyright

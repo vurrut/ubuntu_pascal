@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Automatically generated file. Do not edit (see /usr/share/doc/menu/html) -->
+
+<openbox_menu xmlns="http://openbox.org/"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://openbox.org/
+                file:///usr/share/openbox/menu.xsd">
+
+<menu id='/Debian' label='Debian'>
+  <menu id='/Debian/Applications' label='Applications'>
+    <menu id='/Debian/Applications/Editors' label='Editors'>
+      <item label='LeafPad' icon='/usr/share/pixmaps/leafpad.xpm'>
+        <action name='Execute'><execute>/usr/bin/leafpad</execute></action>
+      </item>
+      <item label='Nano' icon='/usr/share/nano/nano-menu.xpm'>
+        <action name='Execute'><execute>x-terminal-emulator  -T &quot;Nano&quot; -e sh -c &quot;/bin/nano&quot;</execute></action>
+      </item>
+    </menu>
+    <menu id='/Debian/Applications/File Management' label='File Management'>
+      <item label='PCManFM'>
+        <action name='Execute'><execute>/usr/bin/pcmanfm</execute></action>
+      </item>
+      <item label='Xarchiver' icon='/usr/share/pixmaps/xarchiver.xpm'>
+        <action name='Execute'><execute>/usr/bin/xarchiver</execute></action>
+      </item>
+    </menu>
+    <menu id='/Debian/Applications/Programming' label='Programming'>
+      <item label='Python (v2.7)' icon='/usr/share/pixmaps/python2.7.xpm'>
+        <action name='Execute'><execute>x-terminal-emulator  -T &quot;Python (v2.7)&quot; -e sh -c &quot;/usr/bin/python2.7&quot;</execute></action>
+      </item>
+    </menu>
+    <menu id='/Debian/Applications/Science' label='Science'>
+      <menu id='/Debian/Applications/Science/Mathematics' label='Mathematics'>
+        <item label='galculator' icon='/usr/share/pixmaps/galculator.xpm'>
+          <action name='Execute'><execute>/usr/bin/galculator</execute></action>
+        </item>
+      </menu>
+    </menu>
+    <menu id='/Debian/Applications/System' label='System'>
+      <menu id='/Debian/Applications/System/Administration' label='Administration'>
+        <item label='Editres'>
+          <action name='Execute'><execute>editres</execute></action>
+        </item>
+        <item label='LXAppearance'>
+          <action name='Execute'><execute>/usr/bin/lxappearance</execute></action>
+        </item>
+        <item label='Openbox Configuration Manager' icon='/usr/share/pixmaps/obconf.xpm'>
+          <action name='Execute'><execute>/usr/bin/obconf</execute></action>
+        </item>
+        <item label='Xfontsel'>
+          <action name='Execute'><execute>xfontsel</execute></action>
+        </item>
+        <item label='Xkill'>
+          <action name='Execute'><execute>xkill</execute></action>
+        </item>
+        <item label='Xrefresh'>
+          <action name='Execute'><execute>xrefresh</execute></action>
+        </item>
+      </menu>
+      <menu id='/Debian/Applications/System/Hardware' label='Hardware'>
+        <item label='Xvidtune'>
+          <action name='Execute'><execute>xvidtune</execute></action>
+        </item>
+      </menu>
+      <menu id='/Debian/Applications/System/Monitoring' label='Monitoring'>
+        <item label='LXRandR'>
+          <action name='Execute'><execute>/usr/bin/lxrandr</execute></action>
+        </item>
+        <item label='Pstree' icon='/usr/share/pixmaps/pstree16.xpm'>
+          <action name='Execute'><execute>x-terminal-emulator  -T &quot;Pstree&quot; -e sh -c &quot;/usr/bin/pstree.x11&quot;</execute></action>
+        </item>
+        <item label='Xev'>
+          <action name='Execute'><execute>x-terminal-emulator -e xev</execute></action>
+        </item>
+      </menu>
+    </menu>
+    <menu id='/Debian/Applications/Terminal Emulators' label='Terminal Emulators'>
+      <item label='LXTerminal' icon='/usr/share/pixmaps/lxterminal.xpm'>
+        <action name='Execute'><execute>/usr/bin/lxterminal</execute></action>
+      </item>
+      <item label='X-Terminal as root (GKsu)' icon='/usr/share/pixmaps/gksu-debian.xpm'>
+        <action name='Execute'><execute>/usr/bin/gksu -u root /usr/bin/x-terminal-emulator</execute></action>
+      </item>
+      <item label='XTerm' icon='/usr/share/pixmaps/xterm-color_32x32.xpm'>
+        <action name='Execute'><execute>xterm</execute></action>
+      </item>
+      <item label='XTerm (Unicode)' icon='/usr/share/pixmaps/xterm-color_32x32.xpm'>
+        <action name='Execute'><execute>uxterm</execute></action>
+      </item>
+    </menu>
+  </menu>
+  <menu id='/Debian/Screen' label='Screen'>
+    <menu id='/Debian/Screen/Locking' label='Locking'>
+      <item label='Lock Screen (XScreenSaver)'>
+        <action name='Execute'><execute>/usr/bin/xscreensaver-command -lock</execute></action>
+      </item>
+    </menu>
+    <menu id='/Debian/Screen/Saving' label='Saving'>
+      <item label='Activate ScreenSaver (Next)'>
+        <action name='Execute'><execute>/usr/bin/xscreensaver-command -next</execute></action>
+      </item>
+      <item label='Activate ScreenSaver (Previous)'>
+        <action name='Execute'><execute>/usr/bin/xscreensaver-command -prev</execute></action>
+      </item>
+      <item label='Activate ScreenSaver (Random)'>
+        <action name='Execute'><execute>/usr/bin/xscreensaver-command -activate</execute></action>
+      </item>
+      <item label='Demo Screen Hacks'>
+        <action name='Execute'><execute>/usr/bin/xscreensaver-command -demo</execute></action>
+      </item>
+      <item label='Disable XScreenSaver'>
+        <action name='Execute'><execute>/usr/bin/xscreensaver-command -exit</execute></action>
+      </item>
+      <item label='Enable XScreenSaver'>
+        <action name='Execute'><execute>/usr/bin/xscreensaver</execute></action>
+      </item>
+      <item label='Reinitialize XScreenSaver'>
+        <action name='Execute'><execute>/usr/bin/xscreensaver-command -restart</execute></action>
+      </item>
+      <item label='ScreenSaver Preferences'>
+        <action name='Execute'><execute>/usr/bin/xscreensaver-command -prefs</execute></action>
+      </item>
+    </menu>
+  </menu>
+  <menu id='/Debian/Window Managers' label='Window Managers'>
+    <item label='Openbox' icon='/usr/share/pixmaps/openbox.xpm'>
+      <action name='Restart'><execute>/usr/bin/openbox</execute></action>
+    </item>
+  </menu>
+</menu>
+
+</openbox_menu>

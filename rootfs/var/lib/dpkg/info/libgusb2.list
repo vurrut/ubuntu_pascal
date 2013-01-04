@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libgusb2
+/usr/share/doc/libgusb2/changelog.Debian.gz
+/usr/share/doc/libgusb2/copyright
+/usr/lib
+/usr/lib/libgusb.so.2.0.1
+/usr/lib/libgusb.so.2

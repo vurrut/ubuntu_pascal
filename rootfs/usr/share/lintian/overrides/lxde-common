@@ -1,0 +1,6 @@
+#
+# The desktop-command-not-in-package bacause that's in a depends package 
+# command.
+#
+lxde-common: desktop-command-not-in-package /usr/share/applications/lxde-screenlock.desktop xscreensaver-command
+

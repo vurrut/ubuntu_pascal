@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/lib
+/usr/lib/librpmbuild.so.3.0.0
+/usr/share
+/usr/share/doc
+/usr/share/doc/librpmbuild3
+/usr/share/doc/librpmbuild3/copyright
+/usr/lib/librpmbuild.so.3
+/usr/share/doc/librpmbuild3/changelog.Debian.gz

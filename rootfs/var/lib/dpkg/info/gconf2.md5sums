@@ -1,0 +1,14 @@
+b9c39b97c0f198ded6fc3a80f70ed53a  usr/bin/gconf-merge-tree
+90868dc7a6dbfa77c36000da4af55915  usr/bin/gconftool-2
+ae5c12f118d5245cb24cd70dfd4afdec  usr/bin/gsettings-data-convert
+04e60b81da9d86905fc23cfd122b9161  usr/bin/gsettings-schema-convert
+6d84a2b7bc1b4836be81c20ad5f1a024  usr/bin/update-gconf-defaults
+c5f1861476861943d34a806bef70f489  usr/sbin/gconf-schemas
+5537e42e181b4b4eb435681751e3c4f0  usr/share/doc/gconf2/FAQ.txt.gz
+99dc87e1fd19c18423db5d2cde085835  usr/share/doc/gconf2/README.Debian
+616b3703117a9f12548cc7257f95ad24  usr/share/doc/gconf2/copyright
+57f880d2d683e9e7a41c5519ef531ef5  usr/share/man/man1/gconftool-2.1.gz
+2644ece5e6f5710ecaa33c3f7f5d4aa6  usr/share/man/man1/gsettings-data-convert.1.gz
+a56d7d0902e7061b8aadd1233c59676e  usr/share/man/man1/gsettings-schema-convert.1.gz
+ec253c70ef7ec19f7648930a56a42ffb  usr/share/man/man8/gconf-schemas.8.gz
+7af12283133a0bbfee7645f61fe392dd  usr/share/man/man8/update-gconf-defaults.8.gz

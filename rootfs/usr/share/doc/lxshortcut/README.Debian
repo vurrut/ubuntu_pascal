@@ -1,0 +1,23 @@
+lxshortcut
+----------
+
+The lxshortcut package provides a way of customizing menu entries and allows
+one to easily make shortcut to launcher application on desktop.
+
+
+Customizing menu entry
+----------------------
+
+It will be launched when you right click on lxpanel menu entry and lxlauncher
+menu icon.
+
+
+Make shortcut on desktop
+------------------------
+
+You need to have a desktop managed by pcmanfm. You can enable it manually by:
+
+	Edit => Preferences => Desktop => check "Manage the desktop and show
+	file icons".
+
+  -- Andrew Lee (李健秋) <ajqlee@debian.org>  Thu, 23 Jul 2009 23:54:11 +0200

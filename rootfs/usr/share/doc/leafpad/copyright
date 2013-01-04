@@ -1,0 +1,65 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0
+Upstream-Name: leafpad
+Upstream-Contact: Tarot Osuji <tarot@sdf.lonestar.org>
+Source: http://freshmeat.net/projects/leafpad
+X-Upstream-Bugs: <tarot@sdf.lonestar.org>
+X-Source-See-Also:
+  http://tarot.freeshell.org/leafpad
+  http://savannah.nongnu.org/projects/leafpad
+
+Files: *
+Copyright:
+  2003-2011 Tarot Osuji
+  2000,2002 Paolo Maggi
+  2002,2003 Jeroen Zwartepoorte
+License: GPL-2+
+
+Files: src/gtksourceiter.c src/gtksourceiter.h
+Copyright:
+  2002-2003 Jeroen Zwartepoorte,
+  2000-2002 Paolo Maggi
+License: LGPL-2+
+
+Files: debian/*
+Copyright:
+ 2009-2011 Jari Aalto <jari.aalto@cante.net>,
+ 2009      Emilio Pozuelo Monfort <pochu@debian.org>,
+ 2007      Julien Lavergne <julien.lavergne@gmail.com>,
+ 2004-2006 Carlos Z.F. Liu <carlosliu@users.sourceforge.net>,
+ 2004      Ming Hua <minghua@rice.edu>
+X-Debianized-By: Carlos Z.F. Liu 2004-09-27 17:12:26+12 Mon
+License: GPL-2+
+
+License: GPL-2+
+ This package is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 2 of the License, or
+ (at your option) any later version.
+ .
+ This package is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program. If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the complete text of the GNU General
+ Public License can be found in "/usr/share/common-licenses/GPL-2".
+
+License: LGPL-2+
+ This package is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Library General Public
+ License as published by the Free Software Foundation; either
+ version 2 of the License, or (at your option) any later version.
+ .
+ This package is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ Library General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program; if not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the complete text of the GNU Library General
+ Public License can be found in "/usr/share/common-licenses/LGPL-2".

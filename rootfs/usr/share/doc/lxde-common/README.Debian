@@ -1,0 +1,67 @@
+                          lxde-common README.Debian
+			  ---------------------
+
+
+Important Note
+--------------
+lxde-common package provides a set of default configuration for LXDE.
+
+Newer version of lxsession (>=0.4.0) has build-in XSETTINGS daemon.
+
+File Location
+-------------
+lxsession reads config file from /etc/xdg/lxsession/LXDE/desktop.conf 
+or ~/.config/lxsession/LXDE/desktop.conf if user-specific config file
+is available, and presents the config values to other programs via 
+XSETTINGS protocol defined by freedesktop.org.
+
+Default LXDE Hotkeys with Default openbox-lxde WM
+-------------------------------------------------
+Desktop Switching
+
+	DesktopLeft		C-A-Left
+	DesktopRight		C-A-Right
+	DesktopUp		C-A-Up
+	DesktopDown		C-A-Down
+	SendToDesktopLeft	S-A-Left
+	SendToDesktopRight	S-A-Right
+	SendToDesktopUp		S-A-Up
+	SendToDesktopDown	S-A-Down
+	Desktop1		W-F1
+	Desktop2		W-F2
+	Desktop3		W-F3
+	Desktop4		W-F4
+	ToggleShowDesktop	W-d
+	ToggleShowDesktop	C-A-d
+
+Windows Operation
+
+	Close			A-F4
+	LowerFocus		A-Escape
+	ShowMenu		A-space
+	ToggleFullscreen	F11
+
+Window Switching
+
+	NextWindow		A-Tab
+	PreviousWindow		A-S-Tab
+	SwitchToPanelOrDesktop	C-A-Tab
+
+Running Applications	
+
+	File Manager		W-e
+	Task Manager		A-C-Delete
+	
+Keybindings from LXPanel
+
+	Popup Run Window	W-r and A-F2
+	Show LXPanel Menu	C-Escape
+
+
+No Display Managers Users
+-------------------------
+If you use startx. Choose startlxde script to start up LXDE.
+
+More Info
+---------
+See http://wiki.lxde.org/en/Debian for more info. 

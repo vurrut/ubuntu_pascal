@@ -1,0 +1,11 @@
+a866380adf303805fa56ea7f9ce1939c  usr/bin/lxclipboard
+6a69c61b0546def0abb11d96b54bafbf  usr/bin/lxlock
+a5c9e094f20381aa816344460703d851  usr/bin/lxsession
+607ceafe60dfcc6352fb9b1ea3789456  usr/bin/lxsession-logout
+439668d01b00b7d46b64a8a5b1a06894  usr/share/doc/lxsession/NEWS.Debian.gz
+06e9770b5389f527b62981bd01ea0166  usr/share/doc/lxsession/README.gz
+7a15d05dfcf30033800b33c0f4dbe54b  usr/share/doc/lxsession/changelog.Debian.gz
+b9a0433a9ec9b30a15d9604b5cc9d040  usr/share/doc/lxsession/copyright
+3199c2df6766926511c3afa49992dd06  usr/share/doc/lxsession/examples/conffiles.conf.example
+040d452374847905920c5f0e88dbf950  usr/share/doc/lxsession/examples/desktop.conf.example
+b7d11c18f1ea482da52c323841b30863  usr/share/lintian/overrides/lxsession

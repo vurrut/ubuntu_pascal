@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libfm3
+/usr/share/doc/libfm3/AUTHORS
+/usr/share/doc/libfm3/changelog.Debian.gz
+/usr/share/doc/libfm3/copyright
+/usr/share/doc/libfm3/TODO.gz
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/libfm.so.3.1.0
+/usr/lib/arm-linux-gnueabihf/libfm.so.3

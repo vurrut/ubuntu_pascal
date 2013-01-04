@@ -1,0 +1,6 @@
+c8ea559dbf3a8097696b02a441d1b404  usr/lib/arm-linux-gnueabihf/gconf/2/libgconfbackend-evoldap.so
+1b72aab45b5eba7a04d7ba04e34249e8  usr/lib/arm-linux-gnueabihf/gconf/2/libgconfbackend-oldxml.so
+23a76358ef6734a106c4b138c943c52c  usr/lib/arm-linux-gnueabihf/gconf/2/libgconfbackend-xml.so
+84b29f663f56ced6e964900ea104e37d  usr/lib/arm-linux-gnueabihf/gconf/gconfd-2
+5e83000772b6ea846feeaeff7d107a41  usr/share/dbus-1/services/org.gnome.GConf.service
+616b3703117a9f12548cc7257f95ad24  usr/share/doc/gconf-service-backend/copyright

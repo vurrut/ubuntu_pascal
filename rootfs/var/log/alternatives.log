@@ -12,3 +12,50 @@ update-alternatives 2012-10-16 23:02:08: link group w updated to point to /usr/b
 update-alternatives 2012-10-16 23:02:09: run with --install /usr/bin/pager pager /bin/more 50 --slave /usr/share/man/man1/pager.1.gz pager.1.gz /usr/share/man/man1/more.1.gz
 update-alternatives 2012-10-16 23:02:09: link group pager updated to point to /bin/more
 update-alternatives 2012-10-16 23:02:09: run with --install /usr/bin/pager pager /usr/bin/pg 10 --slave /usr/share/man/man1/pager.1.gz pager.1.gz /usr/share/man/man1/pg.1.gz
+update-alternatives 2013-01-03 22:13:11: run with --install /usr/bin/editor editor /bin/nano 40 --slave /usr/share/man/man1/editor.1.gz editor.1.gz /usr/share/man/man1/nano.1.gz
+update-alternatives 2013-01-03 22:13:11: link group editor updated to point to /bin/nano
+update-alternatives 2013-01-03 22:13:12: run with --install /usr/bin/pico pico /bin/nano 10 --slave /usr/share/man/man1/pico.1.gz pico.1.gz /usr/share/man/man1/nano.1.gz
+update-alternatives 2013-01-03 22:13:12: link group pico updated to point to /bin/nano
+update-alternatives 2013-01-03 22:30:07: run with --force --install /etc/ld.so.conf.d/arm-linux-gnueabihf_GL.conf arm-linux-gnueabihf_gl_conf /usr/lib/arm-linux-gnueabihf/mesa/ld.so.conf 500 --slave /usr/lib/arm-linux-gnueabihf/xorg/extra-modules arm-linux-gnueabihf_xorg_extra_modules /usr/lib/arm-linux-gnueabihf/xorg/x11-extra-modules
+update-alternatives 2013-01-03 22:30:07: link group arm-linux-gnueabihf_gl_conf updated to point to /usr/lib/arm-linux-gnueabihf/mesa/ld.so.conf
+update-alternatives 2013-01-03 22:30:24: run with --install /usr/bin/x-window-manager x-window-manager /usr/bin/openbox 90 --slave /usr/share/man/man1/x-window-manager.1.gz x-window-manager.1.gz /usr/share/man/man1/openbox.1.gz
+update-alternatives 2013-01-03 22:30:24: link group x-window-manager updated to point to /usr/bin/openbox
+update-alternatives 2013-01-03 22:30:24: run with --install /usr/bin/x-session-manager x-session-manager /usr/bin/openbox-session 40 --slave /usr/share/man/man1/x-session-manager.1.gz x-session-manager.1.gz /usr/share/man/man1/openbox-session.1.gz
+update-alternatives 2013-01-03 22:30:24: link group x-session-manager updated to point to /usr/bin/openbox-session
+update-alternatives 2013-01-03 22:30:29: run with --install /usr/lib/arm-linux-gnueabihf/libtxc_dxtn.so libtxc-dxtn-arm-linux-gnueabihf /usr/lib/arm-linux-gnueabihf/libtxc_dxtn_s2tc.so.0 10
+update-alternatives 2013-01-03 22:30:29: link group libtxc-dxtn-arm-linux-gnueabihf updated to point to /usr/lib/arm-linux-gnueabihf/libtxc_dxtn_s2tc.so.0
+update-alternatives 2013-01-03 22:35:40: run with --install /usr/bin/view view /usr/bin/see 1 --slave /usr/share/man/man1/view.1.gz view.1.gz /usr/share/man/man1/see.1.gz
+update-alternatives 2013-01-03 22:35:40: link group view updated to point to /usr/bin/see
+update-alternatives 2013-01-03 22:35:50: run with --quiet --install /usr/bin/rsh rsh /usr/bin/ssh 20 --slave /usr/share/man/man1/rsh.1.gz rsh.1.gz /usr/share/man/man1/ssh.1.gz
+update-alternatives 2013-01-03 22:35:50: link group rsh updated to point to /usr/bin/ssh
+update-alternatives 2013-01-03 22:35:50: run with --quiet --install /usr/bin/rlogin rlogin /usr/bin/slogin 20 --slave /usr/share/man/man1/rlogin.1.gz rlogin.1.gz /usr/share/man/man1/slogin.1.gz
+update-alternatives 2013-01-03 22:35:51: link group rlogin updated to point to /usr/bin/slogin
+update-alternatives 2013-01-03 22:35:51: run with --quiet --install /usr/bin/rcp rcp /usr/bin/scp 20 --slave /usr/share/man/man1/rcp.1.gz rcp.1.gz /usr/share/man/man1/scp.1.gz
+update-alternatives 2013-01-03 22:35:51: link group rcp updated to point to /usr/bin/scp
+update-alternatives 2013-01-03 22:35:54: run with --quiet --install /lib/cpp cpp /usr/bin/cpp 10
+update-alternatives 2013-01-03 22:35:54: link group cpp updated to point to /usr/bin/cpp
+update-alternatives 2013-01-03 22:36:58: run with --install /usr/bin/gnome-text-editor gnome-text-editor /usr/bin/leafpad 40 --slave /usr/share/man/man1/gnome-text-editor.1.gz gnome-text-editor.1.gz /usr/share/man/man1/leafpad.1.gz
+update-alternatives 2013-01-03 22:36:58: link group gnome-text-editor updated to point to /usr/bin/leafpad
+update-alternatives 2013-01-03 22:37:24: run with --install /usr/bin/x-session-manager x-session-manager /usr/bin/lxsession 49 --slave /usr/share/man/man1/lxsession-manager.1.gz x-session-manager.1.gz /usr/share/man/man1/lxsession.1.gz
+update-alternatives 2013-01-03 22:37:24: link group x-session-manager updated to point to /usr/bin/lxsession
+update-alternatives 2013-01-03 22:37:25: run with --install /usr/bin/x-session-manager x-session-manager /usr/bin/startlxde 50 --slave /usr/share/man/man1/x-session-manager.1.gz x-session-manager.1.gz /usr/share/man/man1/startlxde.1.gz
+update-alternatives 2013-01-03 22:37:25: link group x-session-manager updated to point to /usr/bin/startlxde
+update-alternatives 2013-01-03 22:37:27: run with --install /usr/bin/x-terminal-emulator x-terminal-emulator /usr/bin/lxterminal 40 --slave /usr/share/man/man1/x-terminal-emulator.1.gz x-terminal-emulator.1.gz /usr/share/man/man1/lxterminal.1.gz
+update-alternatives 2013-01-03 22:37:27: link group x-terminal-emulator updated to point to /usr/bin/lxterminal
+update-alternatives 2013-01-03 22:37:43: run with --install /etc/lxdm/default.conf lxdm.conf /etc/lxdm/lxdm.conf 50
+update-alternatives 2013-01-03 22:37:43: link group lxdm.conf updated to point to /etc/lxdm/lxdm.conf
+update-alternatives 2013-01-03 22:38:11: run with --install /usr/bin/x-terminal-emulator x-terminal-emulator /usr/bin/xterm 20 --slave /usr/share/man/man1/x-terminal-emulator.1.gz x-terminal-emulator.1.gz /usr/share/man/man1/xterm.1.gz
+update-alternatives 2013-01-03 22:38:11: run with --install /usr/bin/x-terminal-emulator x-terminal-emulator /usr/bin/uxterm 20 --slave /usr/share/man/man1/x-terminal-emulator.1.gz x-terminal-emulator.1.gz /usr/share/man/man1/uxterm.1.gz
+update-alternatives 2013-01-03 22:38:11: run with --install /usr/bin/x-terminal-emulator x-terminal-emulator /usr/bin/koi8rxterm 20 --slave /usr/share/man/man1/x-terminal-emulator.1.gz x-terminal-emulator.1.gz /usr/share/man/man1/koi8rxterm.1.gz
+update-alternatives 2013-01-03 22:38:11: run with --install /usr/bin/x-terminal-emulator x-terminal-emulator /usr/bin/lxterm 30 --slave /usr/share/man/man1/x-terminal-emulator.1.gz x-terminal-emulator.1.gz /usr/share/man/man1/lxterm.1.gz
+update-alternatives 2013-01-03 22:38:33: run with --install /usr/bin/x-www-browser x-www-browser /usr/bin/chromium-browser 40
+update-alternatives 2013-01-03 22:38:33: link group x-www-browser updated to point to /usr/bin/chromium-browser
+update-alternatives 2013-01-03 22:38:33: run with --install /usr/bin/gnome-www-browser gnome-www-browser /usr/bin/chromium-browser 40
+update-alternatives 2013-01-03 22:38:33: link group gnome-www-browser updated to point to /usr/bin/chromium-browser
+update-alternatives 2013-01-03 22:38:34: run with --install /usr/bin/gconftool gconftool /usr/bin/gconftool-2 25 --slave /usr/share/man/man1/gconftool.1.gz gconftool.1.gz /usr/share/man/man1/gconftool-2.1.gz
+update-alternatives 2013-01-03 22:38:34: link group gconftool updated to point to /usr/bin/gconftool-2
+update-alternatives 2013-01-03 22:38:38: run with --install /usr/share/gconf/defaults/10_libgksu libgksu-gconf-defaults /usr/share/libgksu/debian/gconf-defaults.libgksu-sudo 30
+update-alternatives 2013-01-03 22:38:38: link group libgksu-gconf-defaults updated to point to /usr/share/libgksu/debian/gconf-defaults.libgksu-sudo
+update-alternatives 2013-01-03 22:38:38: run with --install /usr/share/gconf/defaults/10_libgksu libgksu-gconf-defaults /usr/share/libgksu/debian/gconf-defaults.libgksu-su 20
+update-alternatives 2013-01-03 22:38:41: run with --install /usr/bin/rename rename /usr/bin/prename 60 --slave /usr/share/man/man1/rename.1.gz rename.1.gz /usr/share/man/man1/prename.1.gz
+update-alternatives 2013-01-03 22:38:41: link group rename updated to point to /usr/bin/prename

@@ -1,0 +1,4 @@
+/etc/bash_completion.d/colormgr-completion.bash
+/etc/dbus-1/system.d/org.freedesktop.ColorManager.conf
+/etc/dbus-1/system.d/org.freedesktop.colord-sane.conf
+/etc/colord.conf

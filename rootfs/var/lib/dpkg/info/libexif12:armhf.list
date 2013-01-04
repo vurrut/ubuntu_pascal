@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/libexif.so.12.3.2
+/usr/share
+/usr/share/doc
+/usr/share/doc/libexif12
+/usr/share/doc/libexif12/changelog.Debian.gz
+/usr/share/doc/libexif12/README.gz
+/usr/share/doc/libexif12/AUTHORS
+/usr/share/doc/libexif12/NEWS.gz
+/usr/share/doc/libexif12/copyright
+/usr/lib/arm-linux-gnueabihf/libexif.so.12

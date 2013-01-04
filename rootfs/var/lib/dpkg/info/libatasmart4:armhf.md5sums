@@ -1,0 +1,5 @@
+cf4e42794a05f6722ac4cce2414bd6a2  lib/arm-linux-gnueabihf/libatasmart.so.4.0.5
+9332c8a68f3fb3b9d1f049eb1a31c556  usr/share/apport/package-hooks/libatasmart4.py
+b0414546b23cb2b77d66d76bfefe4705  usr/share/doc/libatasmart4/README
+1ae677d9b56c4aea21bc5191ef654836  usr/share/doc/libatasmart4/changelog.Debian.gz
+9ecf7a815308856b8f0d40ed5d14a2e0  usr/share/doc/libatasmart4/copyright

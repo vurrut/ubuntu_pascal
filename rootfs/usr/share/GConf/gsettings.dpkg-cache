@@ -1,0 +1,7 @@
+gsettings-desktop-schemas.convert
+gvfs-dns-sd.convert
+gvfs-smb.convert
+org.gnome.crypto.cache.convert
+org.gnome.crypto.pgp.convert
+org.gnome.crypto.pgp_keyservers.convert
+wm-schemas.convert

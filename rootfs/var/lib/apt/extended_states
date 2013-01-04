@@ -1,0 +1,1440 @@
+Package: xserver-xorg
+Architecture: armhf
+Auto-Installed: 1
+
+Package: policykit-1-gnome
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libglapi-mesa
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gnome-keyring
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libkeyutils1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libplist1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: dmsetup
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgtk2.0-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libedit2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: menu-xdg
+Architecture: armhf
+Auto-Installed: 1
+
+Package: chromium-browser-l10n
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libobrender27
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libkrb5-3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libatk1.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: lxsession
+Architecture: armhf
+Auto-Installed: 1
+
+Package: menu
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libtalloc2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpopt0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ttf-dejavu-core
+Architecture: armhf
+Auto-Installed: 1
+
+Package: udisks2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: chromium-codecs-ffmpeg
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcdio13
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxfixes3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: bzip2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: shared-mime-info
+Architecture: armhf
+Auto-Installed: 1
+
+Package: rpm2cpio
+Architecture: armhf
+Auto-Installed: 1
+
+Package: notification-daemon
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libkrb5support0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libatasmart4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpolkit-gobject-1-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: librpmbuild3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xserver-xorg-input-evdev
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgmp10
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmpfr4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgphoto2-port0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libv4l-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libnettle4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: mime-support
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gvfs-fuse
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgtop2-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libnss3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: lxterminal
+Architecture: armhf
+Auto-Installed: 1
+
+Package: usbmuxd
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xserver-xorg-video-all
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcanberra-gtk3-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libatk-bridge2.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libhx509-5-heimdal
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xserver-xorg-video-ati
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libutempter0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: openbox-themes
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libjpeg8
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libvorbisfile3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsane-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: iso-codes
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libclass-isa-perl
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgnome-keyring0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: lxdm
+Architecture: armhf
+Auto-Installed: 1
+
+Package: x11-utils
+Architecture: armhf
+Auto-Installed: 1
+
+Package: lxmusic
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpixman-1-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: krb5-locales
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgck-1-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libx11-data
+Architecture: armhf
+Auto-Installed: 1
+
+Package: liblocale-gettext-perl
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfm-data
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxmmsclient6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xserver-xorg-video-fbdev
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xserver-xorg-input-wacom
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libswitch-perl
+Architecture: armhf
+Auto-Installed: 1
+
+Package: sound-theme-freedesktop
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libavahi-common-data
+Architecture: armhf
+Auto-Installed: 1
+
+Package: glib-networking-services
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libudisks2-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsane
+Architecture: armhf
+Auto-Installed: 1
+
+Package: galculator
+Architecture: armhf
+Auto-Installed: 1
+
+Package: unzip
+Architecture: armhf
+Auto-Installed: 1
+
+Package: perl
+Architecture: armhf
+Auto-Installed: 1
+
+Package: glib-networking
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libdbus-glib-1-2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxxf86vm1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcap2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libproxy1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xterm
+Architecture: armhf
+Auto-Installed: 1
+
+Package: liblcms2-2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gtk2-engines-pixbuf
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libtdb1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: x11-xserver-utils
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfm-gtk-bin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: obconf
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpam-gnome-keyring
+Architecture: armhf
+Auto-Installed: 1
+
+Package: lxde-icon-theme
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcb-glx0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xserver-xorg-video-r128
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libieee1284-3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: chromium-browser
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xserver-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libtxc-dxtn-s2tc0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libjpeg-turbo-progs
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsasl2-modules
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xscreensaver
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gvfs-libs
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgcr-3-1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libheimbase1-heimdal
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gconf2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: dosfstools
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xauth
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libwnck-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: librpmio3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: librpm3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: rpm-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xserver-xorg-video-vesa
+Architecture: armhf
+Auto-Installed: 1
+
+Package: leafpad
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xserver-xorg-video-mach64
+Architecture: armhf
+Auto-Installed: 1
+
+Package: lxde-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libusb-1.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xserver-xorg-video-modesetting
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcairo2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libnotify4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfontconfig1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libx11-xcb1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcb-util0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: fontconfig-config
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgnutls26
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsqlite3-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: policykit-1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gvfs-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: lxsession-data
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libjbig0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: psmisc
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgdk-pixbuf2.0-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xml-core
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libbsd0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfile-basedir-perl
+Architecture: armhf
+Auto-Installed: 1
+
+Package: mtools
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxmuu1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gvfs-daemons
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python2.7
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libtasn1-3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcb-render0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsoup2.4-1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgcr-3-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgphoto2-2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python-minimal
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xserver-xorg-core
+Architecture: armhf
+Auto-Installed: 1
+
+Package: hicolor-icon-theme
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcolord1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsmbclient
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcap2-bin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gsettings-desktop-schemas
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libdevmapper1.02.1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: lxrandr
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgconf-2-4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpciaccess0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libk5crypto3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfuse2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcanberra-gtk3-module
+Architecture: armhf
+Auto-Installed: 1
+
+Package: glib-networking-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libck-connector0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: pcmanfm
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libheimntlm0-heimdal
+Architecture: armhf
+Auto-Installed: 1
+
+Package: lxsession-edit
+Architecture: armhf
+Auto-Installed: 1
+
+Package: openssh-client
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libdatrie1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xkb-data
+Architecture: armhf
+Auto-Installed: 1
+
+Package: fontconfig
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libwnck22
+Architecture: armhf
+Auto-Installed: 1
+
+Package: acl
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxfont1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: lxde-core
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libelf1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xmms2-plugin-alsa
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python2.7-minimal
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgtk-3-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxres1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmtdev1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: dbus
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcb1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfm-gtk-data
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libp11-kit0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: arj
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xbitmaps
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgee2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsecret-1-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xmms2-plugin-id3v2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libstartup-notification0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxau6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gconf-service
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxxf86dga1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfile-mimeinfo-perl
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcdio-cdda1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxaw7
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gtk2-engines
+Architecture: armhf
+Auto-Installed: 1
+
+Package: cpp
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpango1.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xserver-xorg-input-all
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgdbm3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: at-spi2-core
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcups2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: netbase
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gcr
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xfonts-base
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgif4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: python
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgtk-3-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgtk2.0-bin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: sudo
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfm-gtk3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gconf-service-backend
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxft2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: giblib1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgssapi3-heimdal
+Architecture: armhf
+Auto-Installed: 1
+
+Package: lxinput
+Architecture: armhf
+Auto-Installed: 1
+
+Package: dictionaries-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcb-shape0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libvte9
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcomposite1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcroco3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: dconf-service
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xserver-xorg-video-nouveau
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libice6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxdmcp6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgcrypt11
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgphoto2-l10n
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libthai0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxml2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libimobiledevice3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: openbox
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgudev-1.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: lxappearance
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libglade2-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libdrm-nouveau2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpam-cap
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libbluetooth3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfile-desktopentry-perl
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libjpeg-turbo8
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxmu6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: file
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libroken18-heimdal
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libasound2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libatk1.0-data
+Architecture: armhf
+Auto-Installed: 1
+
+Package: lxmenu-data
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxpm4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgpg-error0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xdg-utils
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxrender1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libnspr4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: sgml-base
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfm3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libwbclient0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: rpm
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ucf
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libtext-iconv-perl
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xmms2-plugin-mad
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsoup-gnome2.4-1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgusb2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libdconf1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxss1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libiw30
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgd2-xpm
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gconf2-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: keyboard-configuration
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libkrb5-26-heimdal
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfontenc1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libtiff5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: perl-modules
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libjasper1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgtop2-7
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xmms2-core
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcap-ng0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libusbmuxd2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xfonts-utils
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libhcrypto4-heimdal
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gpicview
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcdio-paranoia1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcanberra0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libldap-2.4-2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gksu
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpam-ck-connector
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfreetype6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libthai-data
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxtst6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: zip
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgdk-pixbuf2.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgl1-mesa-dri
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libavahi-client3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libarchive12
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libatspi2.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: liblua5.1-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgnome-keyring-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: librsvg2-2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcairo-gobject2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpolkit-backend-1-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: colord
+Architecture: armhf
+Auto-Installed: 1
+
+Package: x11-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgl1-mesa-glx
+Architecture: armhf
+Auto-Installed: 1
+
+Package: lxshortcut
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgksu2-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmad0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libx11-6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libdrm-omap1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: fuse
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsasl2-2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: lxpanel
+Architecture: armhf
+Auto-Installed: 1
+
+Package: dconf-gsettings-backend
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libid3tag0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xmms2-plugin-vorbis
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsm6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: cpp-4.7
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libavahi-glib1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: librpmsign1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libwind0-heimdal
+Architecture: armhf
+Auto-Installed: 1
+
+Package: miscfiles
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxdamage1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gvfs
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgtk-3-bin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: x11-xkb-utils
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgssapi-krb5-2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gvfs-backends
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libexif12
+Architecture: armhf
+Auto-Installed: 1
+
+Package: scrot
+Architecture: armhf
+Auto-Installed: 1
+
+Package: dbus-x11
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxi6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libvorbis0a
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libimlib2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libv4lconvert0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xserver-xorg-input-synaptics
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libjpeg-progs
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcursor1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xfonts-encodings
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxcb-shm0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libavahi-common3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxt6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libasn1-8-heimdal
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxinerama1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxv1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libvte-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxext6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: p7zip-full
+Architecture: armhf
+Auto-Installed: 1
+
+Package: eject
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxrandr2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xserver-xorg-video-omap
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsecret-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libnss3-1d
+Architecture: armhf
+Auto-Installed: 1
+
+Package: librsvg2-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmenu-cache1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ntfs-3g
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xscreensaver-data
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxmmsclient-glib1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xserver-xorg-video-radeon
+Architecture: armhf
+Auto-Installed: 1
+
+Package: xarchiver
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgtk2.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libobt0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpolkit-agent-1-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxkbfile1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmpc2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libltdl7
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmagic1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libssl1.0.0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libogg0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: consolekit
+Architecture: armhf
+Auto-Installed: 1
+

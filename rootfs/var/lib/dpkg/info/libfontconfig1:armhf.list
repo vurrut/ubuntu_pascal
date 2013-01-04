@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/libfontconfig.so.1.6.2
+/usr/share
+/usr/share/doc
+/usr/share/doc/libfontconfig1
+/usr/share/doc/libfontconfig1/changelog.Debian.gz
+/usr/share/doc/libfontconfig1/README.gz
+/usr/share/doc/libfontconfig1/copyright
+/usr/share/doc/libfontconfig1/AUTHORS
+/usr/lib/arm-linux-gnueabihf/libfontconfig.so.1

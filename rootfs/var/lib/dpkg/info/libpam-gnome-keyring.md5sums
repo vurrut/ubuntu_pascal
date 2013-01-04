@@ -1,0 +1,8 @@
+58079b169fcf12fdab9e964a109e7322  lib/security/pam_gnome_keyring.so
+e166011281158eaa1c64baaa52efccc2  usr/share/doc/libpam-gnome-keyring/AUTHORS
+203ecb2f78fb47b03eb4c645bc34a51d  usr/share/doc/libpam-gnome-keyring/NEWS.gz
+929cc66e4295e31be5af348183f5537d  usr/share/doc/libpam-gnome-keyring/README
+20a9aaf0f0f007fd7ad485336f6a5217  usr/share/doc/libpam-gnome-keyring/README.Debian
+46e9ac2a3f1a736f598530ad4b39f12f  usr/share/doc/libpam-gnome-keyring/changelog.Debian.gz
+389b474fa85618e5b839ae06ddc08c49  usr/share/doc/libpam-gnome-keyring/copyright
+e95a4eeeb6e509e387a78d8c81c1e653  usr/share/pam-configs/gnome-keyring
